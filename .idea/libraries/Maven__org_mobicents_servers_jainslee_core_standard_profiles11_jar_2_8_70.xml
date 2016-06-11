@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.mobicents.servers.jainslee.core:standard-profiles11-jar:2.8.70">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mobicents/servers/jainslee/core/standard-profiles11-jar/2.8.70/standard-profiles11-jar-2.8.70.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mobicents/servers/jainslee/core/standard-profiles11-jar/2.8.70/standard-profiles11-jar-2.8.70-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mobicents/servers/jainslee/core/standard-profiles11-jar/2.8.70/standard-profiles11-jar-2.8.70-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,5 @@
+com/airline/model/Passenger.class
+com/airline/util/DBUtil.class
+com/airline/controller/PassengerController.class
+com/airline/dao/PassengerDAOImplementation.class
+com/airline/dao/PassengerDAO.class
